@@ -16,7 +16,7 @@ This is a command-line application from scratch to manage a company's employee d
 # Installation
 
 # Screenshot
-
+![Alt text](Assets/Screenshot%202023-05-15%20at%206.26.53%20PM.png)
 # Features
 
 # Usage
