@@ -1,5 +1,6 @@
 # SQL-Employee-Tracker
 - [Description](#description)
+- [Installation](#installation)
 - [Screenshot](#screenshot)
 - [Contributions](#contributions)
 - [License](#license)
@@ -9,7 +10,14 @@
 
 # Description
 Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS).<br><Br> 
-This is a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+This is a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.<br>
+
+# Installation
+- Node v16<br>
+- MySQL<BR>
+- Inquirer npm <br>
+- MySQL2 npm <br>
+- Console.table npm
 
 # Screenshot
 ![Alt text](Assets/Screenshot%202023-05-15%20at%206.26.53%20PM.png)
