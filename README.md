@@ -27,3 +27,4 @@ You can also get a hold of me through my [GitHub](https://github.com/itsrayito) 
 This application was made entirely by Rayito Aguirre <br><br>
 Lecture videos and class sessions on SQL provided by Rice University Coding Bootcamp in partnership with edX.<br>
 # Video-Tutorial
+ Link: https://drive.google.com/file/d/1PXTK7ZiqWoJ3aKuQ8tAhic_bugcKDiPy/view?usp=sharing
