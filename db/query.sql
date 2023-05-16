@@ -7,5 +7,5 @@ INSERT INTO role (title, salary, department_id)
 VALUES (newTitle, newSalary, newDepartmentId)
 
 -- values in the employee table
-INSERT INTO employee (first_name, last_name, role_id, manager_id)
+INSERT INTO employee (first_name, last_name, job_title, manager_id)
 VALUES (newFirst, newLast, newRoleId, newManagerId)

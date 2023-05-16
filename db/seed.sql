@@ -10,7 +10,7 @@ VALUES (001, "Salesperson", 50000, 1),
        (004, "Account Manager", 120000, 3),
        (005, "Lawyer", 300000, 4);
 
-INSERT INTO department (id, department_name)
+INSERT INTO department (id, name)
 VALUES (001, "Sales"),
        (002, "Engineering"),
        (003, "Finance"),
